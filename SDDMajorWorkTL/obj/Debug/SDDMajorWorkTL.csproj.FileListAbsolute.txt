@@ -1,0 +1,291 @@
+C:\Users\Teresa\Downloads\SDDMajorWorkTL\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.exe.config
+C:\Users\Teresa\Downloads\SDDMajorWorkTL\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.exe
+C:\Users\Teresa\Downloads\SDDMajorWorkTL\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.pdb
+C:\Users\Teresa\Downloads\SDDMajorWorkTL\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csprojAssemblyReference.cache
+C:\Users\Teresa\Downloads\SDDMajorWorkTL\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Properties.Resources.resources
+C:\Users\Teresa\Downloads\SDDMajorWorkTL\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.GenerateResource.cache
+C:\Users\Teresa\Downloads\SDDMajorWorkTL\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.CoreCompileInputs.cache
+C:\Users\Teresa\Downloads\SDDMajorWorkTL\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.exe
+C:\Users\Teresa\Downloads\SDDMajorWorkTL\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.pdb
+C:\Users\Teresa\Downloads\SDDMajorWorkTL\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Menu.resources
+C:\Users\Teresa\Downloads\SDDMajorWorkTL\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.SubjectPage.resources
+C:\Users\Teresa\Downloads\SDDMajorWorkTL\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Help.resources
+C:\Users\Teresa\Downloads\SDDMajorWorkTL\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Task_Page.resources
+C:\Users\Teresa\Downloads\SDDMajorWorkTL\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Marks_and_Weighting_Table.resources
+C:\Users\Teresa\Downloads\SDDMajorWorkTL\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.TotalMarksPage.resources
+C:\Users\teresa.li2\Downloads\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.exe.config
+C:\Users\teresa.li2\Downloads\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.exe
+C:\Users\teresa.li2\Downloads\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.pdb
+C:\Users\teresa.li2\Downloads\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csprojAssemblyReference.cache
+C:\Users\teresa.li2\Downloads\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Help.resources
+C:\Users\teresa.li2\Downloads\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Marks_and_Weighting_Table.resources
+C:\Users\teresa.li2\Downloads\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Menu.resources
+C:\Users\teresa.li2\Downloads\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Properties.Resources.resources
+C:\Users\teresa.li2\Downloads\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.SubjectPage.resources
+C:\Users\teresa.li2\Downloads\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Task_Page.resources
+C:\Users\teresa.li2\Downloads\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.TotalMarksPage.resources
+C:\Users\teresa.li2\Downloads\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.GenerateResource.cache
+C:\Users\teresa.li2\Downloads\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.CoreCompileInputs.cache
+C:\Users\teresa.li2\Downloads\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.exe
+C:\Users\teresa.li2\Downloads\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.pdb
+C:\Users\teresa.li2\Downloads\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.exe
+C:\Users\teresa.li2\Downloads\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.pdb
+C:\Users\teresa.li2\Downloads\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.exe.config
+C:\Users\teresa.li2\Downloads\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.exe
+C:\Users\teresa.li2\Downloads\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.pdb
+C:\Users\teresa.li2\Downloads\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csprojAssemblyReference.cache
+C:\Users\teresa.li2\Downloads\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Help.resources
+C:\Users\teresa.li2\Downloads\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Marks_and_Weighting_Table.resources
+C:\Users\teresa.li2\Downloads\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Menu.resources
+C:\Users\teresa.li2\Downloads\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Properties.Resources.resources
+C:\Users\teresa.li2\Downloads\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.SubjectPage.resources
+C:\Users\teresa.li2\Downloads\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Task_Page.resources
+C:\Users\teresa.li2\Downloads\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.TotalMarksPage.resources
+C:\Users\teresa.li2\Downloads\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.GenerateResource.cache
+C:\Users\teresa.li2\Downloads\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.CoreCompileInputs.cache
+C:\Users\teresa.li2\Downloads\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.exe.config
+C:\Users\teresa.li2\Downloads\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.exe
+C:\Users\teresa.li2\Downloads\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.pdb
+C:\Users\teresa.li2\Downloads\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csprojAssemblyReference.cache
+C:\Users\teresa.li2\Downloads\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Help.resources
+C:\Users\teresa.li2\Downloads\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Marks_and_Weighting_Table.resources
+C:\Users\teresa.li2\Downloads\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Menu.resources
+C:\Users\teresa.li2\Downloads\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Properties.Resources.resources
+C:\Users\teresa.li2\Downloads\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.SubjectPage.resources
+C:\Users\teresa.li2\Downloads\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Task_Page.resources
+C:\Users\teresa.li2\Downloads\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.TotalMarksPage.resources
+C:\Users\teresa.li2\Downloads\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.GenerateResource.cache
+C:\Users\teresa.li2\Downloads\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.CoreCompileInputs.cache
+C:\Users\teresa.li2\Downloads\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.exe
+C:\Users\teresa.li2\Downloads\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.pdb
+U:\SDDMajorProject-13-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csprojAssemblyReference.cache
+U:\SDDMajorProject-13-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Help.resources
+U:\SDDMajorProject-13-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Marks_and_Weighting_Table.resources
+U:\SDDMajorProject-13-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Menu.resources
+U:\SDDMajorProject-13-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Properties.Resources.resources
+U:\SDDMajorProject-13-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.SubjectPage.resources
+U:\SDDMajorProject-13-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Task_Page.resources
+U:\SDDMajorProject-13-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.TotalMarksPage.resources
+U:\SDDMajorProject-13-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.GenerateResource.cache
+U:\SDDMajorProject-13-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.CoreCompileInputs.cache
+U:\SDDMajorProject-13-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.exe
+U:\SDDMajorProject-13-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.pdb
+U:\SDDMajorProject-13-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.exe.config
+U:\SDDMajorProject-13-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.exe
+U:\SDDMajorProject-13-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.pdb
+D:\SDDMajorProject-14-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csprojAssemblyReference.cache
+D:\SDDMajorProject-14-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Help.resources
+D:\SDDMajorProject-14-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Marks_and_Weighting_Table.resources
+D:\SDDMajorProject-14-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Menu.resources
+D:\SDDMajorProject-14-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Properties.Resources.resources
+D:\SDDMajorProject-14-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.SubjectPage.resources
+D:\SDDMajorProject-14-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Task_Page.resources
+D:\SDDMajorProject-14-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.TotalMarksPage.resources
+D:\SDDMajorProject-14-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.GenerateResource.cache
+D:\SDDMajorProject-14-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.CoreCompileInputs.cache
+D:\SDDMajorProject-14-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.exe
+D:\SDDMajorProject-14-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.pdb
+D:\SDDMajorProject-14-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.exe.config
+D:\SDDMajorProject-14-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.exe
+D:\SDDMajorProject-14-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.pdb
+U:\SDDMajorProject-18-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csprojAssemblyReference.cache
+U:\SDDMajorProject-18-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Help.resources
+U:\SDDMajorProject-18-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Marks_and_Weighting_Table.resources
+U:\SDDMajorProject-18-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Menu.resources
+U:\SDDMajorProject-18-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Properties.Resources.resources
+U:\SDDMajorProject-18-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.SubjectPage.resources
+U:\SDDMajorProject-18-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Task_Page.resources
+U:\SDDMajorProject-18-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.TotalMarksPage.resources
+U:\SDDMajorProject-18-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.GenerateResource.cache
+U:\SDDMajorProject-18-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.CoreCompileInputs.cache
+U:\SDDMajorProject-18-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.exe
+U:\SDDMajorProject-18-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.pdb
+U:\SDDMajorProject-18-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.exe.config
+U:\SDDMajorProject-18-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.exe
+U:\SDDMajorProject-18-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.pdb
+D:\SDDMajorProject-18-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.exe.config
+D:\SDDMajorProject-18-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.exe
+D:\SDDMajorProject-18-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.pdb
+D:\SDDMajorProject-18-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csprojAssemblyReference.cache
+D:\SDDMajorProject-18-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Help.resources
+D:\SDDMajorProject-18-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Marks_and_Weighting_Table.resources
+D:\SDDMajorProject-18-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Menu.resources
+D:\SDDMajorProject-18-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Properties.Resources.resources
+D:\SDDMajorProject-18-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.SubjectPage.resources
+D:\SDDMajorProject-18-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Task_Page.resources
+D:\SDDMajorProject-18-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.TotalMarksPage.resources
+D:\SDDMajorProject-18-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.GenerateResource.cache
+D:\SDDMajorProject-18-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.CoreCompileInputs.cache
+D:\SDDMajorProject-18-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.exe
+D:\SDDMajorProject-18-6-18\SDDMajorProject-6-6-18 (1)\SDDMajorProject-6-6-18\SDDMajorProject-6-6-18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorProject-27.5.18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.pdb
+U:\SDDMajorWork-21-6-18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.exe.config
+U:\SDDMajorWork-21-6-18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.exe
+U:\SDDMajorWork-21-6-18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.pdb
+U:\SDDMajorWork-21-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csprojAssemblyReference.cache
+U:\SDDMajorWork-21-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Help.resources
+U:\SDDMajorWork-21-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Marks_and_Weighting_Table.resources
+U:\SDDMajorWork-21-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Menu.resources
+U:\SDDMajorWork-21-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Properties.Resources.resources
+U:\SDDMajorWork-21-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.SubjectPage.resources
+U:\SDDMajorWork-21-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Task_Page.resources
+U:\SDDMajorWork-21-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.TotalMarksPage.resources
+U:\SDDMajorWork-21-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.GenerateResource.cache
+U:\SDDMajorWork-21-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.CoreCompileInputs.cache
+U:\SDDMajorWork-21-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.exe
+U:\SDDMajorWork-21-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.pdb
+D:\SDDMajorWork-21-6-18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.exe.config
+D:\SDDMajorWork-21-6-18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.exe
+D:\SDDMajorWork-21-6-18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.pdb
+D:\SDDMajorWork-21-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csprojAssemblyReference.cache
+D:\SDDMajorWork-21-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Help.resources
+D:\SDDMajorWork-21-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Marks_and_Weighting_Table.resources
+D:\SDDMajorWork-21-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Menu.resources
+D:\SDDMajorWork-21-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Properties.Resources.resources
+D:\SDDMajorWork-21-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.SubjectPage.resources
+D:\SDDMajorWork-21-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Task_Page.resources
+D:\SDDMajorWork-21-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.TotalMarksPage.resources
+D:\SDDMajorWork-21-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.GenerateResource.cache
+D:\SDDMajorWork-21-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.CoreCompileInputs.cache
+D:\SDDMajorWork-21-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.exe
+D:\SDDMajorWork-21-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.pdb
+C:\Users\Teresa\Downloads\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.exe.config
+C:\Users\Teresa\Downloads\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.exe
+C:\Users\Teresa\Downloads\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.pdb
+C:\Users\Teresa\Downloads\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csprojAssemblyReference.cache
+C:\Users\Teresa\Downloads\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Help.resources
+C:\Users\Teresa\Downloads\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Marks_and_Weighting_Table.resources
+C:\Users\Teresa\Downloads\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Menu.resources
+C:\Users\Teresa\Downloads\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Properties.Resources.resources
+C:\Users\Teresa\Downloads\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.SubjectPage.resources
+C:\Users\Teresa\Downloads\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Task_Page.resources
+C:\Users\Teresa\Downloads\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.TotalMarksPage.resources
+C:\Users\Teresa\Downloads\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.GenerateResource.cache
+C:\Users\Teresa\Downloads\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.CoreCompileInputs.cache
+C:\Users\Teresa\Downloads\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.exe
+C:\Users\Teresa\Downloads\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.pdb
+C:\Users\Teresa\Downloads\SDDMajorProject-25-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csprojAssemblyReference.cache
+C:\Users\Teresa\Downloads\SDDMajorProject-25-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Help.resources
+C:\Users\Teresa\Downloads\SDDMajorProject-25-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Marks_and_Weighting_Table.resources
+C:\Users\Teresa\Downloads\SDDMajorProject-25-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Menu.resources
+C:\Users\Teresa\Downloads\SDDMajorProject-25-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Properties.Resources.resources
+C:\Users\Teresa\Downloads\SDDMajorProject-25-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.SubjectPage.resources
+C:\Users\Teresa\Downloads\SDDMajorProject-25-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Task_Page.resources
+C:\Users\Teresa\Downloads\SDDMajorProject-25-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.TotalMarksPage.resources
+C:\Users\Teresa\Downloads\SDDMajorProject-25-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.GenerateResource.cache
+C:\Users\Teresa\Downloads\SDDMajorProject-25-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.CoreCompileInputs.cache
+C:\Users\Teresa\Downloads\SDDMajorProject-25-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.exe
+C:\Users\Teresa\Downloads\SDDMajorProject-25-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.pdb
+C:\Users\Teresa\Downloads\SDDMajorProject-25-6-18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.exe.config
+C:\Users\Teresa\Downloads\SDDMajorProject-25-6-18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.exe
+C:\Users\Teresa\Downloads\SDDMajorProject-25-6-18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.pdb
+C:\Users\Teresa\Downloads\SDDMajorProject-26-6-18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.exe.config
+C:\Users\Teresa\Downloads\SDDMajorProject-26-6-18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.exe
+C:\Users\Teresa\Downloads\SDDMajorProject-26-6-18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.pdb
+C:\Users\Teresa\Downloads\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csprojAssemblyReference.cache
+C:\Users\Teresa\Downloads\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Help.resources
+C:\Users\Teresa\Downloads\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Marks_and_Weighting_Table.resources
+C:\Users\Teresa\Downloads\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Menu.resources
+C:\Users\Teresa\Downloads\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Properties.Resources.resources
+C:\Users\Teresa\Downloads\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.SubjectPage.resources
+C:\Users\Teresa\Downloads\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Task_Page.resources
+C:\Users\Teresa\Downloads\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.TotalMarksPage.resources
+C:\Users\Teresa\Downloads\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.GenerateResource.cache
+C:\Users\Teresa\Downloads\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.CoreCompileInputs.cache
+C:\Users\Teresa\Downloads\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.exe
+C:\Users\Teresa\Downloads\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.pdb
+C:\Users\Teresa\Documents\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csprojAssemblyReference.cache
+C:\Users\Teresa\Documents\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.ResolveComReference.cache
+C:\Users\Teresa\Documents\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Help.resources
+C:\Users\Teresa\Documents\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Marks_and_Weighting_Table.resources
+C:\Users\Teresa\Documents\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Menu.resources
+C:\Users\Teresa\Documents\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Properties.Resources.resources
+C:\Users\Teresa\Documents\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.SubjectPage.resources
+C:\Users\Teresa\Documents\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Task_Page.resources
+C:\Users\Teresa\Documents\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.TotalMarksPage.resources
+C:\Users\Teresa\Documents\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.GenerateResource.cache
+C:\Users\Teresa\Documents\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.CoreCompileInputs.cache
+C:\Users\Teresa\Documents\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.exe
+C:\Users\Teresa\Documents\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.pdb
+C:\Users\Teresa\Documents\SDDMajorProject-26-6-18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.exe.config
+C:\Users\Teresa\Documents\SDDMajorProject-26-6-18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.exe
+C:\Users\Teresa\Documents\SDDMajorProject-26-6-18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.pdb
+C:\Users\teresa.li2\Downloads\SDDMajorProject-26-6-18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.exe.config
+C:\Users\teresa.li2\Downloads\SDDMajorProject-26-6-18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.exe
+C:\Users\teresa.li2\Downloads\SDDMajorProject-26-6-18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.pdb
+C:\Users\teresa.li2\Downloads\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csprojAssemblyReference.cache
+C:\Users\teresa.li2\Downloads\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.ResolveComReference.cache
+C:\Users\teresa.li2\Downloads\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Help.resources
+C:\Users\teresa.li2\Downloads\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Marks_and_Weighting_Table.resources
+C:\Users\teresa.li2\Downloads\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Menu.resources
+C:\Users\teresa.li2\Downloads\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Properties.Resources.resources
+C:\Users\teresa.li2\Downloads\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.SubjectPage.resources
+C:\Users\teresa.li2\Downloads\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Task_Page.resources
+C:\Users\teresa.li2\Downloads\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.TotalMarksPage.resources
+C:\Users\teresa.li2\Downloads\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.GenerateResource.cache
+C:\Users\teresa.li2\Downloads\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.CoreCompileInputs.cache
+C:\Users\teresa.li2\Downloads\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.exe
+C:\Users\teresa.li2\Downloads\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.pdb
+C:\Users\Teresa\Downloads\SDDMajorProject-26-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.ResolveComReference.cache
+C:\Users\Teresa\Downloads\SDDMajorProject-28-6-18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.exe.config
+C:\Users\Teresa\Downloads\SDDMajorProject-28-6-18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.exe
+C:\Users\Teresa\Downloads\SDDMajorProject-28-6-18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.pdb
+C:\Users\Teresa\Downloads\SDDMajorProject-28-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csprojAssemblyReference.cache
+C:\Users\Teresa\Downloads\SDDMajorProject-28-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.ResolveComReference.cache
+C:\Users\Teresa\Downloads\SDDMajorProject-28-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Help.resources
+C:\Users\Teresa\Downloads\SDDMajorProject-28-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Marks_and_Weighting_Table.resources
+C:\Users\Teresa\Downloads\SDDMajorProject-28-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Menu.resources
+C:\Users\Teresa\Downloads\SDDMajorProject-28-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Properties.Resources.resources
+C:\Users\Teresa\Downloads\SDDMajorProject-28-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.SubjectPage.resources
+C:\Users\Teresa\Downloads\SDDMajorProject-28-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Task_Page.resources
+C:\Users\Teresa\Downloads\SDDMajorProject-28-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.TotalMarksPage.resources
+C:\Users\Teresa\Downloads\SDDMajorProject-28-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.GenerateResource.cache
+C:\Users\Teresa\Downloads\SDDMajorProject-28-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.CoreCompileInputs.cache
+C:\Users\Teresa\Downloads\SDDMajorProject-28-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.exe
+C:\Users\Teresa\Downloads\SDDMajorProject-28-6-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.pdb
+C:\Users\Teresa\Documents\SDDMajorProject-2-7-18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.exe.config
+C:\Users\Teresa\Documents\SDDMajorProject-2-7-18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.exe
+C:\Users\Teresa\Documents\SDDMajorProject-2-7-18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.pdb
+C:\Users\Teresa\Documents\SDDMajorProject-2-7-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csprojAssemblyReference.cache
+C:\Users\Teresa\Documents\SDDMajorProject-2-7-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.ResolveComReference.cache
+C:\Users\Teresa\Documents\SDDMajorProject-2-7-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Help.resources
+C:\Users\Teresa\Documents\SDDMajorProject-2-7-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Marks_and_Weighting_Table.resources
+C:\Users\Teresa\Documents\SDDMajorProject-2-7-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Menu.resources
+C:\Users\Teresa\Documents\SDDMajorProject-2-7-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Properties.Resources.resources
+C:\Users\Teresa\Documents\SDDMajorProject-2-7-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.SubjectPage.resources
+C:\Users\Teresa\Documents\SDDMajorProject-2-7-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Task_Page.resources
+C:\Users\Teresa\Documents\SDDMajorProject-2-7-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.TotalMarksPage.resources
+C:\Users\Teresa\Documents\SDDMajorProject-2-7-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.GenerateResource.cache
+C:\Users\Teresa\Documents\SDDMajorProject-2-7-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.CoreCompileInputs.cache
+C:\Users\Teresa\Documents\SDDMajorProject-2-7-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.exe
+C:\Users\Teresa\Documents\SDDMajorProject-2-7-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.pdb
+U:\SDDMajorProject-2-7-18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.exe.config
+U:\SDDMajorProject-2-7-18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.exe
+U:\SDDMajorProject-2-7-18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.pdb
+U:\SDDMajorProject-2-7-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csprojAssemblyReference.cache
+U:\SDDMajorProject-2-7-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.ResolveComReference.cache
+U:\SDDMajorProject-2-7-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Help.resources
+U:\SDDMajorProject-2-7-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Marks_and_Weighting_Table.resources
+U:\SDDMajorProject-2-7-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Menu.resources
+U:\SDDMajorProject-2-7-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Properties.Resources.resources
+U:\SDDMajorProject-2-7-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.SubjectPage.resources
+U:\SDDMajorProject-2-7-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Task_Page.resources
+U:\SDDMajorProject-2-7-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.TotalMarksPage.resources
+U:\SDDMajorProject-2-7-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.GenerateResource.cache
+U:\SDDMajorProject-2-7-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.CoreCompileInputs.cache
+U:\SDDMajorProject-2-7-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.exe
+U:\SDDMajorProject-2-7-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.pdb
+C:\Users\Ibtisaam Butt\Desktop\Fiverr\ProjectFile\SDDMajorProject-2-7-18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.exe.config
+C:\Users\Ibtisaam Butt\Desktop\Fiverr\ProjectFile\SDDMajorProject-2-7-18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.exe
+C:\Users\Ibtisaam Butt\Desktop\Fiverr\ProjectFile\SDDMajorProject-2-7-18\SDDMajorWorkTL\bin\Debug\SDDMajorWorkTL.pdb
+C:\Users\Ibtisaam Butt\Desktop\Fiverr\ProjectFile\SDDMajorProject-2-7-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.ResolveComReference.cache
+C:\Users\Ibtisaam Butt\Desktop\Fiverr\ProjectFile\SDDMajorProject-2-7-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Help.resources
+C:\Users\Ibtisaam Butt\Desktop\Fiverr\ProjectFile\SDDMajorProject-2-7-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Marks_and_Weighting_Table.resources
+C:\Users\Ibtisaam Butt\Desktop\Fiverr\ProjectFile\SDDMajorProject-2-7-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Menu.resources
+C:\Users\Ibtisaam Butt\Desktop\Fiverr\ProjectFile\SDDMajorProject-2-7-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Properties.Resources.resources
+C:\Users\Ibtisaam Butt\Desktop\Fiverr\ProjectFile\SDDMajorProject-2-7-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.SubjectPage.resources
+C:\Users\Ibtisaam Butt\Desktop\Fiverr\ProjectFile\SDDMajorProject-2-7-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.Task_Page.resources
+C:\Users\Ibtisaam Butt\Desktop\Fiverr\ProjectFile\SDDMajorProject-2-7-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.TotalMarksPage.resources
+C:\Users\Ibtisaam Butt\Desktop\Fiverr\ProjectFile\SDDMajorProject-2-7-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csproj.GenerateResource.Cache
+C:\Users\Ibtisaam Butt\Desktop\Fiverr\ProjectFile\SDDMajorProject-2-7-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.exe
+C:\Users\Ibtisaam Butt\Desktop\Fiverr\ProjectFile\SDDMajorProject-2-7-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.pdb
+C:\Users\Ibtisaam Butt\Desktop\Fiverr\ProjectFile\SDDMajorProject-2-7-18\SDDMajorWorkTL\obj\Debug\SDDMajorWorkTL.csprojResolveAssemblyReference.cache

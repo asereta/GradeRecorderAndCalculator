@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="BtnMenu.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+        rkJggg==
+</value>
+  </data>
+  <data name="helpinfo.Text" xml:space="preserve">
+    <value>The Grade Recorder and Calculator is used to record your subjects, marks and weightings and culminate them into a datatable for you to export into an Excel sheet or calculate your overall subject marks and overall mark.
+
+The Menu is your home menu and allows you to start the program and access this help menu. It also provides a brief description of what this program does.
+
+When you start the program, the Subject Page will open. This page asks for the number of subjects that you are currently doing this year as well as the name of those subjects. There is a drop down menu after the request for your number of subjects. You can select which number of subjects depending on your situation. You are restricted to 2-6 subjects. When you select the number of subjects that you are doing in this year, textboxes will display according to the number of subjects. You will then be asked to enter the name of those subjects, one by one. You can input both numbers and text. However, you cannot leave the textboxes empty. If you do, you will recieve an error message to input the appropriate values, whether that be the number of subjects or the name of those subjects. From here you can either move back to the Main Menu or continue into the program. 
+
+When you click the next button from the Subject Page, the Task Page will open. This page asks for the number of your tasks and then asks for the weightings and marks of each of those tasks. There is a drop down menu after the request for your number of tasks. You can select what number of tasks you are doing depending on your circumstance. In this program, it is assumed that the number of tasks that you select are the same for all your subjects. This is to simplify the process of inputting within this program. You restricted to 2-6 tasks. When you select the number of tasks, the requests for both the weightings and marks of your task will show. For the weighting, you need to enter a number between 0-1.00. For example, for 75% on one task weighting, you would input 0.75. For the marks, you will need to enter a number between 0-100. For example, for 60/100 on one task mark, you would input 60. It will also display the number of tasks through textboxes with your assigned subject. The top part will be for the weightings of each task while the bottom part will be for the marks of each task. When you select the next button, the Marks and Weighting Table will show. If you miss an input such as the textboxes or the drop down menu, an error message will show and request that you input valid data. 
+
+The Marks and Weighting Table will show the data that you have inputted from each subject and their individual weightings and marks for each task in a datatable. You can either choose to go back to the menu, export the datatable into an Excel sheet or you continue the program to the Total Marks Page. If you choose to go back, you will be redirected to the Subject Page since you will now need to re-enter the data because the Task Page will need data from the Subject Page to operate. 
+
+The Total Marks Page will show you your overall mark for all of your subjects and tasks as well as your overall subject mark for your individual subjects. The overall subject mark can be shown through using the drop down menu and will then show in a textbox. You can then choose to go back to the menu, export the marks into a datatable or return back to the menu. 
+
+Thanks for using the Grade Recorder and Calculator. Hope you enjoy!
+</value>
+  </data>
+</root>
